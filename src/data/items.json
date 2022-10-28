@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 11",
+    "price": 799,
+    "imgUrl": "/imgs/iphone11.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S10+",
+    "price": 999,
+    "imgUrl": "/imgs/samsunggalaxys10plus.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Iphone 13",
+    "price": 1099,
+    "imgUrl": "/imgs/iphone13.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy S22",
+    "price": 1049,
+    "imgUrl": "/imgs/samsungs22.jpg"
+  }
+]
